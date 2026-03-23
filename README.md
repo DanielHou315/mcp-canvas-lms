@@ -406,7 +406,7 @@ npm run dev:watch
 
 ## Appendix: MCP in Practice (Code Execution, Tool Scale, and Safety)
 
-Last updated: 2026-02-24
+Last updated: 2026-03-23
 
 ### Why This Appendix Exists
 MCP is still one of the most useful interoperability layers for agentic tooling. The tradeoff is that large MCP servers can expose dozens of tools, and naive tool-calling can flood context windows with tool schemas, call traces, and low-signal chatter.
